@@ -1,0 +1,3 @@
+# Lagay
+
+Inspired by vmstats.
